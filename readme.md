@@ -3,3 +3,5 @@
 ### Je kunt zoveel ondertitels toevoegen als je wilt
 
 ook online kunnen we verder aan de code
+
+maar ook lokaal kunnen we verder
